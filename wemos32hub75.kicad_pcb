@@ -3602,7 +3602,7 @@
 		(descr "SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP4"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "76f94306-72a7-4de5-9444-9039ae36c6eb")
@@ -3615,7 +3615,7 @@
 			)
 		)
 		(property "Value" "OUT_AD4PIN"
-			(at 0 -1.9 270)
+			(at 0 -1.9 -90)
 			(layer "B.Fab")
 			(uuid "0ec63d1d-8394-4b7c-a673-b3d1a6bd49bb")
 			(effects
